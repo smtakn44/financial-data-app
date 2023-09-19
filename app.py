@@ -4,7 +4,7 @@ import pandas as pd
 from datetime import datetime, timedelta
 
 # Sayfa başlığını ayarlayın
-st.title("Financial Data App")
+st.title("Financial Data App ")
 
 # Sidebar'ı oluşturun
 st.sidebar.header("User Input")
