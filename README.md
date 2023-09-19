@@ -1,1 +1,1 @@
-# financial-data-app
+# financial-data-app-with-streamlit
